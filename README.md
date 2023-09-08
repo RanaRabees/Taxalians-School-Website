@@ -15,13 +15,13 @@ support student success in alignment with the school priorities.
 ## Technologies Used
 
 * HTML
-* CSS
 * SCSS
+* CSS
 * JavaScript
 
 ## Live link
 
-<https://ranarabees.github.io/taxalians-school-website>
+<https://ranarabees.github.io/Taxalians-School-Website>
 
 ## Support and contact details
 
